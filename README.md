@@ -77,7 +77,7 @@ ollama pull llama3.2:latest
 
 Check installed models:
 ollama list
-![Ollama Models](screenshots/check_olama.png)
+![Ollama Models](screenshots/check_olama.PNG)
 --------------------------------------------------
 
 4. CREATE PROJECT FOLDER
