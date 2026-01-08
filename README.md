@@ -77,7 +77,7 @@ ollama pull llama3.2:latest
 
 Check installed models:
 ollama list
-![Ollama Models](screenshots/ollama-models.png)
+![Ollama Models](screenshots/check_olama.png)
 --------------------------------------------------
 
 4. CREATE PROJECT FOLDER
@@ -109,7 +109,7 @@ Paste the Python code from this repository.
 --------------------------------------------------
 
 8. RUN THE APPLICATION
-![Terminal Run](screenshots/terminal-run.png
+![Terminal Run](screenshots/output.png)
 python ollama_email_assistant.py
 
 Paste the email text.
