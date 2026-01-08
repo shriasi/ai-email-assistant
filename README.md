@@ -109,7 +109,7 @@ Paste the Python code from this repository.
 --------------------------------------------------
 
 8. RUN THE APPLICATION
-![Terminal Run](screenshots/output.png)
+![Terminal Run](screenshots/output.PNG)
 python ollama_email_assistant.py
 
 Paste the email text.
