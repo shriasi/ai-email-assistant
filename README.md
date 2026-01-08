@@ -77,7 +77,7 @@ ollama pull llama3.2:latest
 
 Check installed models:
 ollama list
-
+![Ollama Models](screenshots/ollama-models.png)
 --------------------------------------------------
 
 4. CREATE PROJECT FOLDER
@@ -109,6 +109,7 @@ Paste the Python code from this repository.
 --------------------------------------------------
 
 8. RUN THE APPLICATION
+![Terminal Run](screenshots/terminal-run.png
 python ollama_email_assistant.py
 
 Paste the email text.
@@ -128,17 +129,27 @@ Also confirm if there is any workaround.
 EXAMPLE OUTPUT
 
 SUMMARY:
-- Intermittent login issues in production
-- Root cause and ETA requested
-- Workaround requested
+- Intermittent login issues persist in the production environment
+- Root cause of the issue needs to be identified
+- Permanent fix timeline is unknown at this time
+- Workaround solution may be available for temporary resolution
 
 REPLY:
-Thank you for the update. We are currently investigating the issue and will
-share root cause details and a confirmed ETA shortly.
+Dear [Sender],
+
+Thank you for bringing this issue to our attention. We apologize for any inconvenience caused by the intermittent login issues in your production environment.
+
+Our team is actively investigating the root cause of the problem and will provide an update on the status as soon as possible. In the meantime, we would like to inquire about any error messages or logs that may be helpful in identifying the issue.
+
+We will keep you informed of our progress and will work towards providing a permanent fix as soon as it is available. If there's anything else we can do to assist you, please don't hesitate to reach out.
+
+Best regards,
+[Your Name]
 
 QUESTIONS:
-- When did the issue start?
-- Are all users affected?
+- What are the error messages or logs that may be helpful in identifying the issue?
+- Can you provide any additional context or information about when the issues started occurring?
+
 
 --------------------------------------------------
 
